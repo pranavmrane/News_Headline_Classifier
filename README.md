@@ -1,4 +1,4 @@
-# News_Headline_Classifier
+# News Headline Classifier
 
 Here we are comparing two classifiers Naive Bayes Classifier or K-Nearest Neighbors Classifier on the same [dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/00359/).
 
